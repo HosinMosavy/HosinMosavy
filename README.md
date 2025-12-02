@@ -60,17 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoseinMosavy&show_icons=true&theme=radical&hide_border=false&title_color=ffffff&icon_color=ff69b4&text_color=ffffff" alt="Hossein's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoseinMosavy&theme=radical&hide_border=false&stroke=ff69b4&background=1f2937" alt="Hossein's GitHub Streak"/>
-</p>
-
----
-
 ## 🚀 Brand
 <p align="center">
   <img src="https://img.shields.io/badge/Mars_Code-💻-blueviolet?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=1f2937" alt="Brand"/>
