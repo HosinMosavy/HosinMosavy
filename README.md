@@ -60,10 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoseinMosavy&show_icons=true&theme=radical" alt="Hossein's GitHub Stats"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoseinMosavy&theme=radical" alt="Hossein's GitHub Streak"/>
