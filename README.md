@@ -1,16 +1,52 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/Mars%20Code-💻-blueviolet?style=for-the-badge&logo=visual-studio" alt="Brand"/>
+</p>
 
-<!--
-**HosinMosavy/HosinMosavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Hossein Mosavy 👋</h1>
+<p align="center">C# Developer | Windows Applications | Mars Code</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- 🎯 **C# WinForms**  
+- 💠 **C# Console**  
+- 🧩 **OOP Concepts**  
+- 🌐 **ASP.NET Core** (Beginner)  
+- 🗄️ **SQL / SQL Server**  
+- 📄 **Stimulsoft Reporting**  
+- 🔌 **ADO.NET** (Beginner)  
+- 🔍 **LINQ**  
+- 🧱 **3-Layer Architecture**  
+- 🎨 **Telerik UI**  
+- 📎 **Microsoft Office**  
+- 🤖 **AI Agent (.NET & n8n)** — Beginner  
+
+---
+
+## 🛠 Real Projects
+- 📊 **Accounting Management System**  
+- 📦 **Inventory & Stock Control System**  
+- ✂️ **Tailoring Workshop Management** (meter-based + orders + customers)  
+- 📇 **Contact Manager** (recycle bin + multi-column search + printable reports)  
+- 🧾 **Sales System** (profit calculation + sub-invoice structure)
+
+---
+
+## 🌐 Languages
+- 🇮🇷 **Persian** — Native  
+- 🇬🇧 **English** — Almost proficient  
+
+---
+
+## 📍 Location
+**Mazandaran — Shahi**
+
+---
+
+## 📬 Contact
+**Telegram:** [@HoseinMosavy](https://t.me/HoseinMosavy)
+
+---
+
+## 🚀 Brand
+**Mars Code**
