@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Mars%20Code-💻-blueviolet?style=for-the-badge&logo=visual-studio" alt="Brand"/>
+  <img src="https://img.shields.io/badge/Mars%20Code-💻-gradient?style=for-the-badge&logo=visual-studio" alt="Brand"/>
 </p>
 
 <h1 align="center">Hi, I'm Hossein Mosavy 👋</h1>
@@ -7,51 +7,71 @@
 
 ---
 
-## 🚀 Skills
-- 🎯 **C# WinForms**  
-- 💠 **C# Console**  
-- 🧩 **OOP Concepts**  
-- 🌐 **ASP.NET Core** (Beginner)  
-- 🗄️ **SQL / SQL Server**  
-- 📄 **Stimulsoft Reporting**  
-- 🔌 **ADO.NET** (Beginner)  
-- 🔍 **LINQ**  
-- 🧱 **3-Layer Architecture**  
-- 🎨 **Telerik UI**  
-- 📎 **Microsoft Office**  
-- 🤖 **AI Agent (.NET & n8n)** — Beginner  
+## 🚀 Skills & Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23_WinForms-Expert-blue?style=for-the-badge&logo=c-sharp" />
+  <img src="https://img.shields.io/badge/C%23_Console-Expert-blue?style=for-the-badge&logo=c-sharp" />
+  <img src="https://img.shields.io/badge/OOP-Advanced-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-Beginner-lightblue?style=for-the-badge&logo=dotnet" />
+  <img src="https://img.shields.io/badge/SQL-SQLServer-red?style=for-the-badge&logo=MicrosoftSQLServer" />
+  <img src="https://img.shields.io/badge/Stimulsoft-Intermediate-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ADO.NET-Beginner-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LINQ-Intermediate-lightblue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/3-Layer-Architecture-Intermediate-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Telerik_UI-Intermediate-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-Intermediate-yellow?style=for-the-badge&logo=microsoftoffice" />
+  <img src="https://img.shields.io/badge/AI_Agent_(.NET_&_n8n)-Beginner-red?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🛠 Real Projects
-- 📊 **Accounting Management System**  
-- 📦 **Inventory & Stock Control System**  
-- ✂️ **Tailoring Workshop Management** (meter-based + orders + customers)  
-- 📇 **Contact Manager** (recycle bin + multi-column search + printable reports)  
-- 🧾 **Sales System** (profit calculation + sub-invoice structure)
+<p align="center">
+  <img src="https://img.shields.io/badge/Accounting_System-📊-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inventory_&_Stock-📦-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailoring_Management-✂️-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contact_Manager-📇-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sales_System-🧾-red?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🌐 Languages
-- 🇮🇷 **Persian** — Native  
-- 🇬🇧 **English** — Almost proficient  
+<p align="center">
+  <img src="https://img.shields.io/badge/Persian-Native-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-Almost_Proficient-1e90ff?style=for-the-badge" />
+</p>
 
 ---
 
 ## 📍 Location
-**Mazandaran — Shahi**
+<p align="center">
+  <img src="https://img.shields.io/badge/Mazandaran—Shahi-🌍-blue?style=for-the-badge" />
+</p>
 
 ---
 
 ## 📬 Contact
-**Telegram:** [@HoseinMosavy](https://t.me/HoseinMosavy)
+<p align="center">
+  <a href="https://t.me/HoseinMosavy">
+    <img src="https://img.shields.io/badge/Telegram-@HoseinMosavy-1da1f2?style=for-the-badge&logo=telegram" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HoseinMosavy&show_icons=true&theme=radical" alt="Hossein's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoseinMosavy&theme=radical" alt="Hossein's GitHub Streak"/>
+</p>
 
 ---
 
 ## 🚀 Brand
-**Mars Code**
-
----
-
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://img.shields.io/badge/Mars_Code-💻-blueviolet?style=for-the-badge&logo=visual-studio" alt="Brand"/>
+</p>
